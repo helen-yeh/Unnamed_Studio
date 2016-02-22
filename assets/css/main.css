@@ -2449,7 +2449,7 @@
 /* Header */
 
 	#header {
-		background: #4acaa8;
+		background: #000000;
 		color: #d1f1e9;
 		height: 100%;
 		position: fixed;
@@ -2573,7 +2573,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/another_day.jpg");
+		background-image: url("../../images/cover.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
