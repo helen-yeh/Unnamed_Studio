@@ -2573,7 +2573,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("Unnamed_Studio/images/cover.jpg");
+		background-image: url("http://helen-yeh.github.io/Unnamed_Studio/images/cover.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
