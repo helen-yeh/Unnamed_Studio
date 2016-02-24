@@ -2785,6 +2785,7 @@
 			}
 
 				#titleBar .title {
+					font-family: Microsoft JhengHei;
 					color: #fff;
 					display: block;
 					font-weight: 700;
@@ -2792,7 +2793,7 @@
 					line-height: 44px;
 					padding: 0 1em;
 					width: 100%;
-					text-align: left;
+					text-align: center;
 				}
 
 					#titleBar .title a {
