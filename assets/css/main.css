@@ -2788,12 +2788,12 @@
 					font-family: Microsoft JhengHei;
 					color: #fff;
 					display: block;
-					font-weight: 600;
+					font-weight: 500;
 					height: 44px;
 					line-height: 44px;
 					padding: 0 1em;
 					width: 100%;
-					text-align: center;
+					text-align: left;
 				}
 
 					#titleBar .title a {
