@@ -84,8 +84,8 @@
 			// Title Bar.
 				$(
 					'<div id="titleBar">' +
-						'<a href="#header" class="toggle"></a>' +
-						'<span class="title">' + $('Unnamed Film Studio').html() + '</span>' +
+						'<a href="https://www.facebook.com/Unname2013" class="toggle"></a>' +
+						'<span class="title">' + $('#logo').html() + '</span>' +
 					'</div>'
 				)
 					.appendTo($body);
