@@ -84,7 +84,7 @@
 			// Title Bar.
 				$(
 					'<div id="titleBar">' +
-						'<a href="https://www.facebook.com/Unname2013" class="toggle"></a>' +
+						'<a href="" class="toggle"></a>' +
 						'<span class="title">' + $('#logo').html() + '</span>' +
 					'</div>'
 				)
