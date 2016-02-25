@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
+@import url("http://fonts.googleapis.com/css?family=Montserrat);
 
 /*
 	Read Only by HTML5 UP
@@ -2462,7 +2462,7 @@
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
 			color: #ffffff;
 			font-weight: 500;
-    			font-family: Helvetica, sans-serif
+    			font-family: 'Montserrat', sans-serif
 		}
 
 			#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
