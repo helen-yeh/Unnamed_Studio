@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=Montserrat");
+@import url("http://fonts.googleapis.com/css?family=Josefin Sans");
 
 /*
 	Read Only by HTML5 UP
@@ -1556,7 +1556,7 @@
 
 	body, input, select, textarea {
 		color: #888;
-		font-family: Helvetica, sans-serif;
+		font-family: 'Josefin Sans', sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
@@ -2462,7 +2462,7 @@
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
 			color: #ffffff;
 			font-weight: 500;
-    			font-family: 'Montserrat', sans-serif
+    			font-family: 'Josefin Sans', sans-serif
 		}
 
 			#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
